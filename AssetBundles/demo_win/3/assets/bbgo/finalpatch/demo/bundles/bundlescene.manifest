@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3670939675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 655f94d28138e294b48aa598cfb953bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91e7c2b1b810fed8151461bdb075eb9a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94425d1b30c654d38b18ab26330bffb6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/BBGo/FinalPatch/Demo/Bundles/BundleScene.unity
+Dependencies:
+- E:/UnityProject/HotUpdate/AssetBundles/demo_win/Full/3/assets/bbgo/finalpatch/demo/bundles/cube_r

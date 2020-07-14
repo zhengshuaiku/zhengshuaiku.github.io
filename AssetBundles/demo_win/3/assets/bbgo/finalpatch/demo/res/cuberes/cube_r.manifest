@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 294335252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b2e54a2741637c479d63925e30ba6ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/BBGo/FinalPatch/Demo/Res/CubeRes/Cube_R.mat
+Dependencies:
+- E:/UnityProject/HotUpdate/AssetBundles/demo_win/Full/3/assets/bbgo/finalpatch/demo/res/cuberes/triangle

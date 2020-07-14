@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 45741349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d4829733ad0ee96cb40183f45124158
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c23e721769fb47468a67df9c4012d813
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/BBGo/FinalPatch/Demo/Bundles/Cube_B.prefab
+Dependencies:
+- E:/UnityProject/HotUpdate/AssetBundles/demo_win/Full/3/assets/bbgo/finalpatch/demo/res/cuberes/triangle

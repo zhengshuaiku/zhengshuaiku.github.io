@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PatchData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Build="demo_win" Hash="92C1E5F601520C4E7FA602E07A4A2EE5E93F551D">
+  <Bundles>
+    <Bundle Name="AssetBundles" Hash="17AD8E06AD57F2281FA3EF2B0B9CF3A728B0E7ED" Size="1195" Version="4" />
+    <Bundle Name="AssetBundles.manifest" Hash="884136C6DEC69B3F674408F7994B5B641652769B" Size="902" Version="4" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/bundlescene" Hash="8103580AAF055320C2D8CF4E59A455E4F6CBEDA4" Size="66783" Version="4" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/bundlescene.manifest" Hash="5D8E310E86DB826358049DE62416E506DBFE0929" Size="1292" Version="4" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/cube_b" Hash="E3F31F0F8C75FAD9B67689158585387EBE4F8CD8" Size="27736" Version="4" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/cube_b.manifest" Hash="816D8C44CB094750B9C7BBD1906D0E490B812F91" Size="763" Version="4" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/cube_r" Hash="9783ADB79AEDB0E9C31FC7DA657CBD257EE8F125" Size="1996" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/cube_r.manifest" Hash="11C2E63C37FB9B282169DF0440FDCE4E6D63C55E" Size="686" Version="4" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/ui/canvas" Hash="5221A50417144E7DA5ACCC76E0A2ECA54A524A34" Size="6376" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/ui/canvas.manifest" Hash="D34F5E58354FC828E1CE7EDD7AE07674F2C5BFD5" Size="1164" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/cube_r" Hash="F936FF9686505D2A82DD1F2FE8B91BE84302C493" Size="26636" Version="3" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/cube_r.manifest" Hash="67F990CD004B960E8721638EC25C4DC0720504F4" Size="538" Version="4" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/triangle" Hash="4F441BC0A7D9DA7273793206A92CB341B985535B" Size="2451" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/triangle.manifest" Hash="9E24477B3C2C3D1C83536B87FFD1CE3103232B87" Size="400" Version="1" />
+  </Bundles>
+</PatchData>

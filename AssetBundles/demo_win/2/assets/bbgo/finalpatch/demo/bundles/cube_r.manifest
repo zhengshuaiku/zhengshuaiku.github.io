@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1171672881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cd66b285142ddfd3510dfed775d2e0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7652f69dff3dcd0741269161f69220a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/BBGo/FinalPatch/Demo/Bundles/Cube_R.prefab
+Dependencies:
+- E:/UnityProject/HotUpdate/AssetBundles/demo_win/Full/2/assets/bbgo/finalpatch/demo/res/cuberes/cube_r

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4185409352
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/bbgo/finalpatch/demo/bundles/bundlescene
+      Dependencies:
+        Dependency_0: assets/bbgo/finalpatch/demo/bundles/cube_r
+    Info_1:
+      Name: assets/bbgo/finalpatch/demo/bundles/cube_b
+      Dependencies:
+        Dependency_0: assets/bbgo/finalpatch/demo/res/cuberes/triangle
+    Info_2:
+      Name: assets/bbgo/finalpatch/demo/bundles/cube_r
+      Dependencies:
+        Dependency_0: assets/bbgo/finalpatch/demo/res/cuberes/cube_r
+    Info_3:
+      Name: assets/bbgo/finalpatch/demo/bundles/ui/canvas
+      Dependencies: {}
+    Info_4:
+      Name: assets/bbgo/finalpatch/demo/res/cuberes/cube_r
+      Dependencies:
+        Dependency_0: assets/bbgo/finalpatch/demo/res/cuberes/triangle
+    Info_5:
+      Name: assets/bbgo/finalpatch/demo/res/cuberes/triangle
+      Dependencies: {}

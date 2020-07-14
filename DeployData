@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<DeployData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Channels>
+    <Channel Name="demo" URL="http://118.190.52.147:8000//AssetBundles" Build="demo_win" Version="4" Foldout="true" />
+  </Channels>
+</DeployData>
